@@ -2,5 +2,4 @@
 Specifications for paggy.
 
 ## List of specifications
-  - Commands
-  - (...)
+See: <a href=https://paggy-net.github.io>Documentation</a>
