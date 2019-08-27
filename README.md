@@ -1,0 +1,2 @@
+# specs
+Specifications for paggy.
